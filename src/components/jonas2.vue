@@ -28,8 +28,7 @@
     </transition-group>
 </ul>
 
-<button @click="removeFromList
-">Ta bort</button>
+<button @click="removeFromList">Ta bort</button>
 
     </form>
   </div>
